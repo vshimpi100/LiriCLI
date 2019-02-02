@@ -1,0 +1,17 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "bands in town, OMDB, and spotify search CLI",
+  "main": "liri.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Vivek Shimpi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7"
+  }
+}
